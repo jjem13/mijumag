@@ -30,3 +30,10 @@
 //     console.log (index);
 //     console.log (estados[index]);
 // }
+let idade = 25
+if(idade > 17){
+console.log('Pode dirigir')
+}
+else{
+console.log ('Ilegal dirigir')
+}
