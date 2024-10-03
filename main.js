@@ -19,14 +19,14 @@
 // }
 // document.write(media(num1, num2, num3))
 
-let estados = ['pr','rj','ac','al','ap','am','pa','ce','df','es','go','ma','mt','ms','mg','pa','pb','pe','pi','rn','rs','ro','rr','sc','sp','se','to']
-let i=0;
-while(i<estados.length){
-console.log (i);
-console.log(estados[i]);
-i++;
-}
-for (let index = 0; index < estados.length; index++) {
-    console.log (index);
-    console.log (estados[index]);
-}
+// let estados = ['pr','rj','ac','al','ap','am','pa','ce','df','es','go','ma','mt','ms','mg','pa','pb','pe','pi','rn','rs','ro','rr','sc','sp','se','to']
+// let i=0;
+// while(i<estados.length){
+// console.log (i);
+// console.log(estados[i]);
+// i++;
+// }
+// for (let index = 0; index < estados.length; index++) {
+//     console.log (index);
+//     console.log (estados[index]);
+// }
